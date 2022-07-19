@@ -1,0 +1,9 @@
+C:\Users\Nikolina\Desktop\cv_old (1)\TEst\EURISTest_vs2017-v2.0\EURIS.Entities\bin\Debug\EURIS.Entities.dll.config
+C:\Users\Nikolina\Desktop\cv_old (1)\TEst\EURISTest_vs2017-v2.0\EURIS.Entities\bin\Debug\EURIS.Entities.dll
+C:\Users\Nikolina\Desktop\cv_old (1)\TEst\EURISTest_vs2017-v2.0\EURIS.Entities\bin\Debug\EURIS.Entities.pdb
+C:\Users\Nikolina\Desktop\cv_old (1)\TEst\EURISTest_vs2017-v2.0\EURIS.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Nikolina\Desktop\cv_old (1)\TEst\EURISTest_vs2017-v2.0\EURIS.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Nikolina\Desktop\cv_old (1)\TEst\EURISTest_vs2017-v2.0\EURIS.Entities\obj\Debug\EURIS.Entities.csprojAssemblyReference.cache
+C:\Users\Nikolina\Desktop\cv_old (1)\TEst\EURISTest_vs2017-v2.0\EURIS.Entities\obj\Debug\EURIS.Entities.csproj.CopyComplete
+C:\Users\Nikolina\Desktop\cv_old (1)\TEst\EURISTest_vs2017-v2.0\EURIS.Entities\obj\Debug\EURIS.Entities.dll
+C:\Users\Nikolina\Desktop\cv_old (1)\TEst\EURISTest_vs2017-v2.0\EURIS.Entities\obj\Debug\EURIS.Entities.pdb
